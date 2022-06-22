@@ -8,5 +8,6 @@
 </head>
 <body>
     <div>Hello World</div>
+    <div>{{$saluto}}</div>
 </body>
 </html>
